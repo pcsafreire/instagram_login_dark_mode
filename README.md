@@ -1,4 +1,4 @@
-1° desafio do Bootcamp HTML Developer da Digital Innovation One
+1° desafio do Bootcamp HTML Web Developer da Digital Innovation One
 
 "Recriando a página inicial do Instagram"
 
